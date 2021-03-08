@@ -6,6 +6,7 @@ public class Main {
         for(int i = 0; i <3 ; i++){
             System.out.println("Hello Batch 8");
             Thread.sleep(2000);
+            break;
         }
     }
 }
